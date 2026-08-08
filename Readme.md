@@ -1,6 +1,6 @@
-# 📊 Amazon Product Financial & Business Analysis
+#  Amazon Product Financial & Business Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 The objective of this project is to analyze Amazon product data from a business perspective and uncover actionable insights that can improve pricing strategy, customer satisfaction, and revenue generation.
 
@@ -14,7 +14,7 @@ Instead of performing only traditional Exploratory Data Analysis (EDA), this pro
 
 ---
 
-# 📂 Dataset Features
+# Dataset Features
 
 The dataset contains information about:
 
@@ -30,7 +30,7 @@ The dataset contains information about:
 
 ---
 
-# 🧮 Feature Engineering
+# Feature Engineering
 
 ## Revenue Potential
 
@@ -62,7 +62,7 @@ naturally achieve larger Revenue Potential values.
 
 ---
 
-# 📈 Business Analysis
+# Business Analysis
 
 ---
 
