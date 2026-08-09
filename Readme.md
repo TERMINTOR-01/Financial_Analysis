@@ -607,3 +607,6 @@ The analysis identifies high-performing products that are likely underpriced and
 By engineering a **Revenue Potential** metric using **Discounted Price × Rating Count**, the project prioritizes products based on both pricing and customer popularity, enabling data-driven decisions for pricing optimization, product improvement, and revenue growth.
 
 Overall, the findings suggest that long-term growth will come from **improving product quality, strengthening customer trust, increasing visibility, and optimizing pricing strategies**, rather than competing primarily through larger discounts.
+
+
+Documented By Sahil Khan
